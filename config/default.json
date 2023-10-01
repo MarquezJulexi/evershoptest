@@ -1,0 +1,17 @@
+{
+    "shop": {
+        "currency": "USD",
+        "language": "en",
+        "weightUnit": "kg",
+        "timezone": "UTC"
+    },
+    "system": {
+        "database": {
+            "host": "evershop.postgres.database.azure.com",
+            "port": "5432",
+            "database": "evershop",
+            "user": "adm1n",
+            "password": "@dministrad0r"
+        }
+    }
+}
